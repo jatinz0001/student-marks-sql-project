@@ -63,8 +63,15 @@ All written with `JOIN`s, `GROUP BY`, and aggregate functions like `AVG()` and `
 ---
 
 ##   Screenshot Examples
+![Show all marks with student and subject](https://raw.githubusercontent.com/jatinz0001/student-marks-sql-project/main/screenshots/Show%20all%20marks%20with%20student%20and%20subject.png)
 
+![Avg Marks per student](https://raw.githubusercontent.com/jatinz0001/student-marks-sql-project/main/screenshots/Avg%20Marks%20per%20student.png)
 
+![Top scorer in each subject](https://raw.githubusercontent.com/jatinz0001/student-marks-sql-project/main/screenshots/Top%20scorer%20in%20each%20subject.png)
+
+![Student Who failed](https://raw.githubusercontent.com/jatinz0001/student-marks-sql-project/main/screenshots/Student%20Who%20failed.png)
+
+![Student count by class](https://raw.githubusercontent.com/jatinz0001/student-marks-sql-project/main/screenshots/Student%20count%20by%20class.png)
 
 ---
 
